@@ -30,6 +30,9 @@ body {
 #nav-list a:hover {
 	background-color: #8243d6;
 }
+#nav-list{
+	text-align: center;
+}
 /* END HEADER */
 
 /* Section */
